@@ -1,0 +1,226 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do freqcounter_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/uart.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart
+# -- Compiling architecture arch of uart
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/gateled.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity gateled
+# -- Compiling architecture arch of gateled
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/UARTxmt.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UARTxmt
+# -- Compiling architecture UART of UARTxmt
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/UARTRx.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UARTRx
+# -- Compiling architecture UART of UARTRx
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/sevensegment.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity sevensegment
+# -- Compiling architecture Behavioral of sevensegment
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/licznikasynch.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity licznikasynch
+# -- Compiling architecture arch of licznikasynch
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/displaymultipl.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity displaymultipl
+# -- Compiling architecture arch of displaymultipl
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/clock_divider.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity clock_divider
+# -- Compiling architecture RTL of clock_divider
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/binary_bcd.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity binary_bcd
+# -- Compiling architecture behaviour of binary_bcd
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/top.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity top
+# -- Compiling architecture arch of top
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/microswitch.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity microswitch
+# -- Compiling architecture arch of microswitch
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/mux.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux
+# -- Compiling architecture arch of mux
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/muxvector.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity muxvector
+# -- Compiling architecture arch of muxvector
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/weled.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity weled
+# -- Compiling architecture arch of weled
+# vcom -93 -work work {D:/Documents/Altera/freqcounter/gatepik.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity gatepik
+# -- Compiling architecture arch of gatepik
+# 
+vsim work.top
+# vsim work.top 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.top(arch)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.clock_divider(rtl)
+# Loading work.microswitch(arch)
+# Loading work.licznikasynch(arch)
+# Loading work.muxvector(arch)
+# Loading work.mux(arch)
+# Loading work.weled(arch)
+# Loading work.gateled(arch)
+# Loading work.gatepik(arch)
+# Loading work.uart(arch)
+# Loading work.uartxmt(uart)
+# Loading work.uartrx(uart)
+# Loading work.displaymultipl(arch)
+# Loading work.binary_bcd(behaviour)
+# Loading work.sevensegment(behavioral)
+add wave -position end  sim:/top/freqsystem
+add wave -position end  sim:/top/freqdisp
+add wave -position end  sim:/top/freqmicroswitch
+add wave -position end  sim:/top/uartspeed
+add wave -position end  sim:/top/N
+add wave -position end  sim:/top/we1
+add wave -position end  sim:/top/we2
+add wave -position end  sim:/top/rxd
+add wave -position end  sim:/top/sw0
+add wave -position end  sim:/top/sw1
+add wave -position end  sim:/top/clk
+add wave -position end  sim:/top/txd
+add wave -position end  sim:/top/buzz
+add wave -position end  sim:/top/gate
+add wave -position end  sim:/top/led0
+add wave -position end  sim:/top/led1
+add wave -position end  sim:/top/unitled0
+add wave -position end  sim:/top/unitled1
+add wave -position end  sim:/top/unitled2
+add wave -position end  sim:/top/gateled0
+add wave -position end  sim:/top/gateled1
+add wave -position end  sim:/top/gateled2
+add wave -position end  sim:/top/segment7o1
+add wave -position end  sim:/top/active1
+add wave -position end  sim:/top/active2
+add wave -position end  sim:/top/active3
+add wave -position end  sim:/top/active4
+add wave -position end  sim:/top/active5
+add wave -position end  sim:/top/active6
+add wave -position end  sim:/top/active7
+add wave -position end  sim:/top/active8
+add wave -position end  sim:/top/clkuartrx
+add wave -position end  sim:/top/clkuarttx
+add wave -position end  sim:/top/pps10
+add wave -position end  sim:/top/pps
+add wave -position end  sim:/top/pps01
+add wave -position end  sim:/top/clkdisp
+add wave -position end  sim:/top/clkgate
+add wave -position end  sim:/top/datardy
+add wave -position end  sim:/top/datardy1
+add wave -position end  sim:/top/reset
+add wave -position end  sim:/top/resetfast
+add wave -position end  sim:/top/sw0o
+add wave -position end  sim:/top/sw1o
+add wave -position end  sim:/top/sw0a
+add wave -position end  sim:/top/sw1a
+add wave -position end  sim:/top/data1
+add wave -position end  sim:/top/data2
+add wave -position end  sim:/top/outlicznik
+add wave -position end  sim:/top/outlicznik2
+add wave -position end  sim:/top/datadisp
+force -freeze sim:/top/we1 1 0, 0 {10000 ps} -r 20ns
+force -freeze sim:/top/we2 1 0, 0 {5000 ps} -r 10ns
+force -freeze sim:/top/sw0 1 0
+force -freeze sim:/top/sw1 1 0
+force -freeze sim:/top/clk 1 0, 0 {10000 ps} -r 20ns
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /top/disp2/bcd1
+run
+run
+run
+run

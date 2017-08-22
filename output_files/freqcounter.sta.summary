@@ -1,0 +1,545 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divider:clkdivider3|temporal'
+Slack : -6.914
+TNS   : -322.689
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divider:clkdivider2|temporal'
+Slack : -4.577
+TNS   : -118.364
+
+Type  : Slow 1200mV 85C Model Setup 'microswitch:switch1|wy'
+Slack : -3.727
+TNS   : -3.727
+
+Type  : Slow 1200mV 85C Model Setup 'we2'
+Slack : -3.588
+TNS   : -77.427
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -3.520
+TNS   : -79.776
+
+Type  : Slow 1200mV 85C Model Setup 'we1'
+Slack : -3.443
+TNS   : -69.211
+
+Type  : Slow 1200mV 85C Model Setup 'microswitch:switch2|wy'
+Slack : -3.147
+TNS   : -6.011
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divider:clkdivider1|temporal'
+Slack : -2.560
+TNS   : -30.497
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divider:clkdivider4|temporal'
+Slack : -1.770
+TNS   : -95.255
+
+Type  : Slow 1200mV 85C Model Setup 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : -1.371
+TNS   : -9.766
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divider:clkdivider5|temporal'
+Slack : -1.312
+TNS   : -50.162
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divider:clkdivider3|temporal'
+Slack : -1.329
+TNS   : -28.344
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divider:clkdivider2|temporal'
+Slack : -0.478
+TNS   : -0.478
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divider:clkdivider4|temporal'
+Slack : -0.291
+TNS   : -0.708
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divider:clkdivider5|temporal'
+Slack : -0.120
+TNS   : -0.937
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.090
+TNS   : -0.131
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divider:clkdivider1|temporal'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'we2'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'we1'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : 0.660
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'microswitch:switch1|wy'
+Slack : 1.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'microswitch:switch2|wy'
+Slack : 1.121
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'we2'
+Slack : -3.258
+TNS   : -95.363
+
+Type  : Slow 1200mV 85C Model Recovery 'we1'
+Slack : -2.833
+TNS   : -87.104
+
+Type  : Slow 1200mV 85C Model Recovery 'clock_divider:clkdivider4|temporal'
+Slack : -2.159
+TNS   : -5.080
+
+Type  : Slow 1200mV 85C Model Recovery 'clock_divider:clkdivider1|temporal'
+Slack : -2.035
+TNS   : -27.231
+
+Type  : Slow 1200mV 85C Model Recovery 'clock_divider:clkdivider2|temporal'
+Slack : -1.374
+TNS   : -12.066
+
+Type  : Slow 1200mV 85C Model Recovery 'clock_divider:clkdivider5|temporal'
+Slack : -0.723
+TNS   : -1.390
+
+Type  : Slow 1200mV 85C Model Removal 'clock_divider:clkdivider2|temporal'
+Slack : -0.594
+TNS   : -5.342
+
+Type  : Slow 1200mV 85C Model Removal 'clock_divider:clkdivider5|temporal'
+Slack : -0.353
+TNS   : -0.353
+
+Type  : Slow 1200mV 85C Model Removal 'clock_divider:clkdivider4|temporal'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clock_divider:clkdivider1|temporal'
+Slack : 1.967
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'we1'
+Slack : 2.262
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'we2'
+Slack : 2.332
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -65.454
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'we1'
+Slack : -3.000
+TNS   : -50.584
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'we2'
+Slack : -3.000
+TNS   : -50.584
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_divider:clkdivider3|temporal'
+Slack : -1.487
+TNS   : -188.849
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_divider:clkdivider4|temporal'
+Slack : -1.487
+TNS   : -115.986
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_divider:clkdivider5|temporal'
+Slack : -1.487
+TNS   : -105.577
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_divider:clkdivider2|temporal'
+Slack : -1.487
+TNS   : -84.759
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_divider:clkdivider1|temporal'
+Slack : -1.487
+TNS   : -25.279
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'microswitch:switch1|wy'
+Slack : 0.423
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : 0.456
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'microswitch:switch2|wy'
+Slack : 0.478
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divider:clkdivider3|temporal'
+Slack : -6.320
+TNS   : -290.377
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divider:clkdivider2|temporal'
+Slack : -4.115
+TNS   : -106.284
+
+Type  : Slow 1200mV 0C Model Setup 'microswitch:switch1|wy'
+Slack : -3.411
+TNS   : -3.411
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -3.289
+TNS   : -70.305
+
+Type  : Slow 1200mV 0C Model Setup 'we2'
+Slack : -3.129
+TNS   : -67.598
+
+Type  : Slow 1200mV 0C Model Setup 'we1'
+Slack : -2.991
+TNS   : -59.735
+
+Type  : Slow 1200mV 0C Model Setup 'microswitch:switch2|wy'
+Slack : -2.914
+TNS   : -5.604
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divider:clkdivider1|temporal'
+Slack : -2.379
+TNS   : -27.734
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divider:clkdivider4|temporal'
+Slack : -1.734
+TNS   : -92.985
+
+Type  : Slow 1200mV 0C Model Setup 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : -1.253
+TNS   : -8.931
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divider:clkdivider5|temporal'
+Slack : -1.077
+TNS   : -49.100
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divider:clkdivider3|temporal'
+Slack : -1.200
+TNS   : -25.772
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divider:clkdivider2|temporal'
+Slack : -0.427
+TNS   : -0.427
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divider:clkdivider4|temporal'
+Slack : -0.185
+TNS   : -0.398
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divider:clkdivider5|temporal'
+Slack : -0.078
+TNS   : -0.489
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.062
+TNS   : -0.062
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divider:clkdivider1|temporal'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'we2'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'we1'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : 0.697
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'microswitch:switch1|wy'
+Slack : 0.938
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'microswitch:switch2|wy'
+Slack : 1.009
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'we2'
+Slack : -2.951
+TNS   : -85.615
+
+Type  : Slow 1200mV 0C Model Recovery 'we1'
+Slack : -2.449
+TNS   : -74.976
+
+Type  : Slow 1200mV 0C Model Recovery 'clock_divider:clkdivider1|temporal'
+Slack : -1.859
+TNS   : -24.741
+
+Type  : Slow 1200mV 0C Model Recovery 'clock_divider:clkdivider4|temporal'
+Slack : -1.831
+TNS   : -4.452
+
+Type  : Slow 1200mV 0C Model Recovery 'clock_divider:clkdivider2|temporal'
+Slack : -1.217
+TNS   : -9.863
+
+Type  : Slow 1200mV 0C Model Recovery 'clock_divider:clkdivider5|temporal'
+Slack : -0.685
+TNS   : -1.192
+
+Type  : Slow 1200mV 0C Model Removal 'clock_divider:clkdivider2|temporal'
+Slack : -0.592
+TNS   : -5.328
+
+Type  : Slow 1200mV 0C Model Removal 'clock_divider:clkdivider5|temporal'
+Slack : -0.289
+TNS   : -0.289
+
+Type  : Slow 1200mV 0C Model Removal 'clock_divider:clkdivider4|temporal'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clock_divider:clkdivider1|temporal'
+Slack : 1.817
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'we1'
+Slack : 1.919
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'we2'
+Slack : 2.110
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -65.454
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'we1'
+Slack : -3.000
+TNS   : -50.584
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'we2'
+Slack : -3.000
+TNS   : -50.584
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider3|temporal'
+Slack : -1.487
+TNS   : -188.849
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider4|temporal'
+Slack : -1.487
+TNS   : -115.986
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider5|temporal'
+Slack : -1.487
+TNS   : -105.577
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider2|temporal'
+Slack : -1.487
+TNS   : -84.759
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider1|temporal'
+Slack : -1.487
+TNS   : -25.279
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'microswitch:switch1|wy'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'microswitch:switch2|wy'
+Slack : 0.474
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock_divider:clkdivider3|temporal'
+Slack : -2.733
+TNS   : -73.855
+
+Type  : Fast 1200mV 0C Model Setup 'clock_divider:clkdivider2|temporal'
+Slack : -1.784
+TNS   : -31.455
+
+Type  : Fast 1200mV 0C Model Setup 'microswitch:switch1|wy'
+Slack : -1.334
+TNS   : -1.334
+
+Type  : Fast 1200mV 0C Model Setup 'we2'
+Slack : -1.059
+TNS   : -16.575
+
+Type  : Fast 1200mV 0C Model Setup 'microswitch:switch2|wy'
+Slack : -1.042
+TNS   : -1.978
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.998
+TNS   : -12.505
+
+Type  : Fast 1200mV 0C Model Setup 'we1'
+Slack : -0.939
+TNS   : -12.450
+
+Type  : Fast 1200mV 0C Model Setup 'clock_divider:clkdivider1|temporal'
+Slack : -0.545
+TNS   : -4.380
+
+Type  : Fast 1200mV 0C Model Setup 'clock_divider:clkdivider4|temporal'
+Slack : -0.423
+TNS   : -16.520
+
+Type  : Fast 1200mV 0C Model Setup 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : -0.248
+TNS   : -1.491
+
+Type  : Fast 1200mV 0C Model Setup 'clock_divider:clkdivider5|temporal'
+Slack : -0.175
+TNS   : -3.998
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divider:clkdivider3|temporal'
+Slack : -0.765
+TNS   : -18.074
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divider:clkdivider2|temporal'
+Slack : -0.305
+TNS   : -0.305
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divider:clkdivider4|temporal'
+Slack : -0.248
+TNS   : -0.642
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.122
+TNS   : -0.301
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divider:clkdivider5|temporal'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divider:clkdivider1|temporal'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'we2'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'we1'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'microswitch:switch1|wy'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'microswitch:switch2|wy'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : 0.482
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'we2'
+Slack : -1.285
+TNS   : -36.618
+
+Type  : Fast 1200mV 0C Model Recovery 'we1'
+Slack : -1.181
+TNS   : -36.336
+
+Type  : Fast 1200mV 0C Model Recovery 'clock_divider:clkdivider4|temporal'
+Slack : -0.437
+TNS   : -0.769
+
+Type  : Fast 1200mV 0C Model Recovery 'clock_divider:clkdivider1|temporal'
+Slack : -0.351
+TNS   : -3.516
+
+Type  : Fast 1200mV 0C Model Recovery 'clock_divider:clkdivider2|temporal'
+Slack : -0.094
+TNS   : -0.376
+
+Type  : Fast 1200mV 0C Model Recovery 'clock_divider:clkdivider5|temporal'
+Slack : -0.030
+TNS   : -0.030
+
+Type  : Fast 1200mV 0C Model Removal 'clock_divider:clkdivider2|temporal'
+Slack : -0.239
+TNS   : -2.146
+
+Type  : Fast 1200mV 0C Model Removal 'clock_divider:clkdivider5|temporal'
+Slack : -0.206
+TNS   : -0.206
+
+Type  : Fast 1200mV 0C Model Removal 'clock_divider:clkdivider4|temporal'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clock_divider:clkdivider1|temporal'
+Slack : 0.792
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'we2'
+Slack : 1.406
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'we1'
+Slack : 1.437
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -57.592
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'we1'
+Slack : -3.000
+TNS   : -49.708
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'we2'
+Slack : -3.000
+TNS   : -45.223
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider3|temporal'
+Slack : -1.000
+TNS   : -127.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider4|temporal'
+Slack : -1.000
+TNS   : -78.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider5|temporal'
+Slack : -1.000
+TNS   : -71.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider2|temporal'
+Slack : -1.000
+TNS   : -57.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_divider:clkdivider1|temporal'
+Slack : -1.000
+TNS   : -17.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'uart:uart1|UARTRx:uartrx1|Dready'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'microswitch:switch1|wy'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'microswitch:switch2|wy'
+Slack : 0.467
+TNS   : 0.000
+
+------------------------------------------------------------

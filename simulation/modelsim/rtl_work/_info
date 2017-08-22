@@ -1,0 +1,546 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Documents\Altera\freqcounter\simulation\modelsim
+Ebinary_bcd
+Z1 w1483974885
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dD:\Documents\Altera\freqcounter\simulation\modelsim
+Z7 8D:/Documents/Altera/freqcounter/binary_bcd.vhd
+Z8 FD:/Documents/Altera/freqcounter/binary_bcd.vhd
+l0
+L5
+V<8@n3XYdmTZGe=R?id;0c1
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1484059876.502000
+Z11 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/binary_bcd.vhd|
+Z12 !s107 D:/Documents/Altera/freqcounter/binary_bcd.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 1^4SDU2WYBYS0;=K?hBB82
+!i10b 1
+Abehaviour
+R2
+R3
+R4
+R5
+DEx4 work 10 binary_bcd 0 22 <8@n3XYdmTZGe=R?id;0c1
+l24
+L14
+V<k_MKYb^i6<hJOXQFJZ8D1
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 <V_2GnN65o<mU=lCoXANV0
+!i10b 1
+Eclock_divider
+Z15 w1472575655
+R2
+R3
+R4
+R5
+R6
+Z16 8D:/Documents/Altera/freqcounter/clock_divider.vhd
+Z17 FD:/Documents/Altera/freqcounter/clock_divider.vhd
+l0
+L5
+V1M67=VMNFXCm5@Y78oK[a1
+R9
+31
+Z18 !s108 1484059876.455000
+Z19 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/clock_divider.vhd|
+Z20 !s107 D:/Documents/Altera/freqcounter/clock_divider.vhd|
+R13
+R14
+!s100 MhF1GL;iENncLGgWJCaF63
+!i10b 1
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 13 clock_divider 0 22 1M67=VMNFXCm5@Y78oK[a1
+l15
+L12
+V3O347M4HJT8H:JIgXz@D42
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 >@=@6bYUh`aHzRG[c<0TH1
+!i10b 1
+Edisplaymultipl
+Z21 w1484045503
+R4
+R5
+R6
+Z22 8D:/Documents/Altera/freqcounter/displaymultipl.vhd
+Z23 FD:/Documents/Altera/freqcounter/displaymultipl.vhd
+l0
+L4
+V4KG]=kmM^ES85^EkSJLZR2
+R9
+31
+Z24 !s108 1484059876.393000
+Z25 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/displaymultipl.vhd|
+Z26 !s107 D:/Documents/Altera/freqcounter/displaymultipl.vhd|
+R13
+R14
+!s100 :NACT@A3O:3`Vm]H0beKl2
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 14 displaymultipl 0 22 4KG]=kmM^ES85^EkSJLZR2
+l32
+L12
+VaDK[j?O;bf`jYS27<fl:N0
+R9
+31
+R24
+R25
+R26
+R13
+R14
+!s100 a_i][0`>8>5nPBATc5KP71
+!i10b 1
+Egateled
+Z27 w1484047294
+R4
+R5
+R6
+Z28 8D:/Documents/Altera/freqcounter/gateled.vhd
+Z29 FD:/Documents/Altera/freqcounter/gateled.vhd
+l0
+L4
+VPZ=RlmnXmETfSiTe@F3ki1
+R9
+31
+Z30 !s108 1484059876.065000
+Z31 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/gateled.vhd|
+Z32 !s107 D:/Documents/Altera/freqcounter/gateled.vhd|
+R13
+R14
+!s100 6Hk:9@=NI^AG2<doWfn531
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 7 gateled 0 22 PZ=RlmnXmETfSiTe@F3ki1
+l10
+L9
+VbKlKc>07J6O:N?mh=QK9i2
+R9
+31
+R30
+R31
+R32
+R13
+R14
+!s100 BMjfS7MzB1TCZO3CJ;P001
+!i10b 1
+Egatepik
+Z33 w1484056775
+R4
+R5
+R6
+Z34 8D:/Documents/Altera/freqcounter/gatepik.vhd
+Z35 FD:/Documents/Altera/freqcounter/gatepik.vhd
+l0
+L4
+Vm`FodH=IIfKYf;N3j1<hH1
+!s100 7j5R7OU:_Bjf>17POab2H3
+R9
+31
+!i10b 1
+Z36 !s108 1484059876.845000
+Z37 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/gatepik.vhd|
+Z38 !s107 D:/Documents/Altera/freqcounter/gatepik.vhd|
+R13
+R14
+Aarch
+R4
+R5
+DEx4 work 7 gatepik 0 22 m`FodH=IIfKYf;N3j1<hH1
+l13
+L9
+VZK_infjP5C@eC^UQcQ_=Y2
+!s100 IY0ZUfZD>m9=Q0S6@XI^j3
+R9
+31
+!i10b 1
+R36
+R37
+R38
+R13
+R14
+Elicznikasynch
+Z39 w1484058055
+Z40 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R4
+R5
+R6
+Z41 8D:/Documents/Altera/freqcounter/licznikasynch.vhd
+Z42 FD:/Documents/Altera/freqcounter/licznikasynch.vhd
+l0
+L5
+Vz?VzMaf37i7S1]]TZ`GFH1
+R9
+31
+Z43 !s108 1484059876.330000
+Z44 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/licznikasynch.vhd|
+Z45 !s107 D:/Documents/Altera/freqcounter/licznikasynch.vhd|
+R13
+R14
+!s100 fN]:ISGHHliZ0IKA=<bK^0
+!i10b 1
+Aarch
+R40
+R4
+R5
+DEx4 work 13 licznikasynch 0 22 z?VzMaf37i7S1]]TZ`GFH1
+l13
+L11
+VOVFWzh7UJgQfLCZg:;k]92
+R9
+31
+R43
+R44
+R45
+R13
+R14
+!s100 YYO8DELMBD5:^BzolZ]ZY1
+!i10b 1
+Emicroswitch
+Z46 w1483964377
+R4
+R5
+R6
+Z47 8D:/Documents/Altera/freqcounter/microswitch.vhd
+Z48 FD:/Documents/Altera/freqcounter/microswitch.vhd
+l0
+L4
+VkWOT1MPQbVf8b=ezN`azd3
+R9
+31
+Z49 !s108 1484059876.627000
+Z50 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/microswitch.vhd|
+Z51 !s107 D:/Documents/Altera/freqcounter/microswitch.vhd|
+R13
+R14
+!s100 `:J`4ZUlZhHa4BT[okfHP2
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 11 microswitch 0 22 kWOT1MPQbVf8b=ezN`azd3
+l17
+L12
+VEl9D:j9TQjP9HVQQhaCA>3
+R9
+31
+R49
+R50
+R51
+R13
+R14
+!s100 dGjn6I5J]B:LCUNaQjY2z2
+!i10b 1
+Emux
+Z52 w1484041697
+R4
+R5
+R6
+Z53 8D:/Documents/Altera/freqcounter/mux.vhd
+Z54 FD:/Documents/Altera/freqcounter/mux.vhd
+l0
+L4
+Vg=9QKS26T36hO3kbJEMXc3
+R9
+31
+Z55 !s108 1484059876.674000
+Z56 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/mux.vhd|
+Z57 !s107 D:/Documents/Altera/freqcounter/mux.vhd|
+R13
+R14
+!s100 d2DXZ[hN?TCiFQ0caGKBL0
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 3 mux 0 22 g=9QKS26T36hO3kbJEMXc3
+l11
+L10
+VE4V^h:mz7ZjUPOQH_o9Hh3
+R9
+31
+R55
+R56
+R57
+R13
+R14
+!s100 iDHB4jm]WHZ<GM:STeT]93
+!i10b 1
+Emuxvector
+Z58 w1484043593
+R4
+R5
+R6
+Z59 8D:/Documents/Altera/freqcounter/muxvector.vhd
+Z60 FD:/Documents/Altera/freqcounter/muxvector.vhd
+l0
+L4
+V19d<O>b;]LEf3:^ECI9A<0
+R9
+31
+Z61 !s108 1484059876.736000
+Z62 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/muxvector.vhd|
+Z63 !s107 D:/Documents/Altera/freqcounter/muxvector.vhd|
+R13
+R14
+!s100 ?Q8dEMfU[JcX28HMhIeG[0
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 9 muxvector 0 22 19d<O>b;]LEf3:^ECI9A<0
+l12
+L11
+V]B?PeC^I[G5GT4<3c>XL<3
+R9
+31
+R61
+R62
+R63
+R13
+R14
+!s100 gMDGiW^K8k[K8S8hGVW^e3
+!i10b 1
+Esevensegment
+Z64 w1484045578
+R3
+R2
+R4
+R5
+R6
+Z65 8D:/Documents/Altera/freqcounter/sevensegment.vhd
+Z66 FD:/Documents/Altera/freqcounter/sevensegment.vhd
+l0
+L6
+V4lWjY^^6@5S2TCM0>F=_D0
+R9
+31
+Z67 !s108 1484059876.268000
+Z68 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/sevensegment.vhd|
+Z69 !s107 D:/Documents/Altera/freqcounter/sevensegment.vhd|
+R13
+R14
+!s100 `emPdKBj:^V0FQk2EzFzY1
+!i10b 1
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 12 sevensegment 0 22 4lWjY^^6@5S2TCM0>F=_D0
+l17
+L15
+V:iYMfT53a85;P87QRme7P2
+R9
+31
+R67
+R68
+R69
+R13
+R14
+!s100 N7SFd?DVSR:BO[mm00JA11
+!i10b 1
+Etop
+Z70 w1484059799
+R40
+R4
+R5
+R6
+Z71 8D:/Documents/Altera/freqcounter/top.vhd
+Z72 FD:/Documents/Altera/freqcounter/top.vhd
+l0
+L5
+VdHiYVed`7H;O::Rkfb_Gi3
+R9
+31
+Z73 !s108 1484059876.564000
+Z74 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/top.vhd|
+Z75 !s107 D:/Documents/Altera/freqcounter/top.vhd|
+R13
+R14
+!s100 :H@7;@8n<Pz2nAXd7li]i0
+!i10b 1
+Aarch
+R40
+R4
+R5
+DEx4 work 3 top 0 22 dHiYVed`7H;O::Rkfb_Gi3
+l96
+L26
+V7O^TGd>@AUHkg=f0R9CW20
+R9
+31
+R73
+R74
+R75
+R13
+R14
+!s100 TNABVh7T=`E?14[z2mFk92
+!i10b 1
+Euart
+Z76 w1484057208
+R4
+R5
+R6
+Z77 8D:/Documents/Altera/freqcounter/uart.vhd
+Z78 FD:/Documents/Altera/freqcounter/uart.vhd
+l0
+L4
+VY_@eVoj3i9KjA_0ZGGW[L0
+R9
+31
+Z79 !s108 1484059876.003000
+Z80 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/uart.vhd|
+Z81 !s107 D:/Documents/Altera/freqcounter/uart.vhd|
+R13
+R14
+!s100 kBiOQ;FlF9CcXn90Jcihf0
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 4 uart 0 22 Y_@eVoj3i9KjA_0ZGGW[L0
+l39
+L15
+V<z^PmE1?3H;0T6iz=5_BY1
+R9
+31
+R79
+R80
+R81
+R13
+R14
+!s100 2EOESYfGdm5A6kJV[YWU22
+!i10b 1
+Euartrx
+Z82 w1472118535
+R4
+R5
+R6
+Z83 8D:/Documents/Altera/freqcounter/UARTRx.vhd
+Z84 FD:/Documents/Altera/freqcounter/UARTRx.vhd
+l0
+L4
+Vi1hRE=O3Yaj7@kGoB;5dk2
+R9
+31
+Z85 !s108 1484059876.206000
+Z86 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/UARTRx.vhd|
+Z87 !s107 D:/Documents/Altera/freqcounter/UARTRx.vhd|
+R13
+R14
+!s100 SBVZGWEecL33jIjNhgJQ?0
+!i10b 1
+Auart
+R4
+R5
+DEx4 work 6 uartrx 0 22 i1hRE=O3Yaj7@kGoB;5dk2
+l17
+L12
+ViRi]FUaJK@EDSK[dGC>FX3
+R9
+31
+R85
+R86
+R87
+R13
+R14
+!s100 @OKScWA>N=aH_6a2nTEJT1
+!i10b 1
+Euartxmt
+Z88 w1472125958
+R4
+R5
+R6
+Z89 8D:/Documents/Altera/freqcounter/UARTxmt.vhd
+Z90 FD:/Documents/Altera/freqcounter/UARTxmt.vhd
+l0
+L4
+VVCTN]m8Xl_na<0K0a6gnd3
+R9
+31
+Z91 !s108 1484059876.143000
+Z92 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/UARTxmt.vhd|
+Z93 !s107 D:/Documents/Altera/freqcounter/UARTxmt.vhd|
+R13
+R14
+!s100 GDEj8Gefb6HMo4LA3j69>3
+!i10b 1
+Auart
+R4
+R5
+DEx4 work 7 uartxmt 0 22 VCTN]m8Xl_na<0K0a6gnd3
+l15
+L12
+V4T=I5>oA2j4O8^do][8KG0
+R9
+31
+R91
+R92
+R93
+R13
+R14
+!s100 z^4<dOSFB`lk[^iEW_ab@2
+!i10b 1
+Eweled
+Z94 w1484047261
+R4
+R5
+R6
+Z95 8D:/Documents/Altera/freqcounter/weled.vhd
+Z96 FD:/Documents/Altera/freqcounter/weled.vhd
+l0
+L4
+V0M@9LNZJ7>oX_`g[jnK;S1
+R9
+31
+Z97 !s108 1484059876.783000
+Z98 !s90 -reportprogress|300|-93|-work|work|D:/Documents/Altera/freqcounter/weled.vhd|
+Z99 !s107 D:/Documents/Altera/freqcounter/weled.vhd|
+R13
+R14
+!s100 nSbXEC16:LQ:_n=QZm3gD2
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 5 weled 0 22 0M@9LNZJ7>oX_`g[jnK;S1
+l10
+L9
+V9[5gZKQ3L[S]1CQ;F2WCX3
+R9
+31
+R97
+R98
+R99
+R13
+R14
+!s100 GV=lc@=?Uj]I>UM26dW^11
+!i10b 1

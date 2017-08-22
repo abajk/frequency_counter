@@ -1,0 +1,23 @@
+
+State Machine - |top|displaymultipl:disp2|binary_bcd:bcd1|state
+Name state.done state.shift state.start 
+state.start 0 0 0 
+state.shift 0 1 1 
+state.done 1 0 1 
+
+State Machine - |top|uart:uart1|next_state
+Name next_state.s6p next_state.s6 next_state.s5p next_state.s5 next_state.s4p next_state.s4 next_state.s3p next_state.s3 next_state.s2g next_state.s2p next_state.s2 next_state.s1p next_state.s1 next_state.s0 
+next_state.s0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+next_state.s1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+next_state.s1p 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+next_state.s2 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+next_state.s2p 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+next_state.s2g 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+next_state.s3 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+next_state.s3p 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+next_state.s4 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+next_state.s4p 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+next_state.s5 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+next_state.s5p 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+next_state.s6 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+next_state.s6p 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
